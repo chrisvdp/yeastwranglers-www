@@ -115,9 +115,15 @@
   type: Monthly Meeting
   time: 8PM
 - month: May 6th, 2020
-  topic: The Wranglers Go Online
+  topic: Small Batch Brewing with Darryl Ma
   topic_url: /events/Yeast-Wranglers-In-The-Age-of-Covid.html
-  location: WebEx
-  location_url: /events/Yeast-Wranglers-In-The-Age-of-Covid.html
+  location: Google Hangouts
+  location_url: https://meet.google.com/stk-ricb-qys
   type: Monthly Meeting
   time: 8PM 
+- month: June 7th, 2020
+  topic: Canadian Homebrew Day 2020
+  topic_url: /events/Canadian-Homebrew-Day-2020.html
+  location: TBD
+  type: Brew Day
+  time: 11AM
