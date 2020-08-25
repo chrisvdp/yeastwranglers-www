@@ -22,14 +22,14 @@
 #     items:
 #       - text: Get Tickets
 #         link_to: '/events/CTYW-First-Annual-hopefully-Oktoberfest.html'
-- background: assets/images/stock/bottle-caps.jpg
-  title:
-    main: Canadian Homebrew Day 2020
-    sub: The Great Canadian Lawnmower Beer
-  buttons:
-    items:
-      - text: Details
-        link_to: '/events/Canadian-Homebrew-Day-2020.html'
+# - background: assets/images/stock/bottle-caps.jpg
+#   title:
+#     main: Canadian Homebrew Day 2020
+#     sub: The Great Canadian Lawnmower Beer
+#   buttons:
+#     items:
+#       - text: Details
+#         link_to: '/events/Canadian-Homebrew-Day-2020.html'
 - background: assets/images/stock/refreshing-beer.jpg
   title:
     main: Renew or Join
