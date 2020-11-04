@@ -30,6 +30,14 @@
 #     items:
 #       - text: Details
 #         link_to: '/events/Canadian-Homebrew-Day-2020.html'
+- background: assets/images/stock/hops-1405519.jpg
+  title:
+    main: Cowntown Yeast Wranglers 1st Annual AGM
+    sub: November 25th at 8PM
+  buttons:
+    items:
+      - text: Mark Your Calendar
+        link_to: '/calendar/'
 - background: assets/images/stock/refreshing-beer.jpg
   title:
     main: Renew or Join
