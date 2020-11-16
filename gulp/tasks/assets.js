@@ -1,5 +1,7 @@
 'use strict';
-const argv = require('yargs').argv;
+const yargs = require('yargs/yargs');
+const {hideBin} = require('yargs/helpers');
+const argv = yargs(hideBin(process.argv)).argv;
 const autoprefixer = require('autoprefixer');
 const browserSync = require('browser-sync').create();
 const concat = require('gulp-concat');
