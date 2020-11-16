@@ -36,3 +36,7 @@ jobs:
         run: npm ci
       - name: Test Build
         run: gulp build
+      - name: Diff Output
+        uses: David-Byrne/jekyll-diff-action@v1.3.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
