@@ -27,7 +27,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - name: Setup Ruby
-        uses: ruby/setup-ruby@ec106b438a1ff6ff109590de34ddc62c540232e0
+        uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.6
       - name: Install Gems
