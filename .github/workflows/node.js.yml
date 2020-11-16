@@ -20,12 +20,19 @@ jobs:
 
     
     steps:
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1, ruby/setup-ruby@ec106b438a1ff6ff109590de34ddc62c540232e0
-      with:
-        node-version: ${{ matrix.node-version }}
-        ruby-version: 2.6
-    - run: npm ci
-    - run: bundle install
-    - run: gulp build
+      - name: Checkout Code
+        uses: actions/checkout@v2
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@1
+        with:
+          ruby-version: 2.6
+      - name: Install Gems
+        run: bundle install
+      - name: Install npm packages
+        run: npm ci
+      - name: Test Build
+        run: gulp build
