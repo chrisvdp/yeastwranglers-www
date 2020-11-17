@@ -10,7 +10,6 @@ const gulp = require('gulp');
 const gzip = require('gulp-gzip');
 const newer = require('gulp-newer');
 const postcss = require('gulp-postcss');
-const rename = require('gulp-rename');
 const rev = require('gulp-rev');
 const sass = require('gulp-sass');
 const size = require('gulp-size');
@@ -103,7 +102,7 @@ function reload(done) {
 }
 // 'gulp serve' -- open up your website in your browser and watch for changes
 // in all your files and update them when needed
-gulp.task('serve', (done) => {
+gulp.task('serve', done => {
   browserSync.init({
     // tunnel: true,
     // open: false,
