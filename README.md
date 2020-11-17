@@ -22,7 +22,7 @@ browser. Neato. If you want to run it with production settings, just add
 
 ### Markdown
 
-[You can see more on markdown here](https://daringfireball.net/projects/markdown/).
+[You can see more on markdown here](https://kramdown.gettalong.org/quickref.html).
 
 Markdown is like HTML, but simplified. This file is written in Markdown.
 
@@ -43,19 +43,9 @@ This will create a folder called `dist/` that has a production ready version of 
 
 ### Deploy
 
-To deploy the site you must add a `aws-credentials.json` file (ask the site admin for it), build the site and run
-
-```sh
-$ gulp deploy
-```
+push your changes to master, and AWS will automatically build and deploy the.
 
 Your changes are now live. Double neato.
-
-### Build & Deploy
-
-```sh
-$ npm run-script deploy
-```
 
 # Content
 

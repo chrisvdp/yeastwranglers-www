@@ -49,7 +49,7 @@ gulp.task('scripts', () =>
     .pipe(size({
       showFiles: true
     }))
-    .pipe(when(argv.prod, when('*.js', uglify({preserveComments: 'some'}))))
+    .pipe(when(argv.prod, when('*.js', uglify())))
     .pipe(when(argv.prod, size({
       showFiles: true
     })))
