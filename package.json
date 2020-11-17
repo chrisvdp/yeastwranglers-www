@@ -8,7 +8,7 @@
     "email": "chris@chrisvdp.com"
   },
   "scripts": {
-    "deploy": "gulp build --prod && gulp deploy",
+    "build": "gulp build --prod",
     "start": "gulp"
   },
   "devDependencies": {
@@ -43,8 +43,6 @@
     "gulp-uncss": "^1.0.0",
     "shelljs": "^0.7.0",
     "yargs": "^16.1.1",
-    "require-dir": "^1.0.0",
-    "gulp-awspublish": "^3.2.0",
-    "concurrent-transform": "^1.0.0"
+    "require-dir": "^1.0.0"
   }
 }
