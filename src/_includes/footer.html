@@ -10,18 +10,18 @@
           {% for item in site.data.nav %}
             {% if item.children %}
               <li>
-                <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>
+                <a href="/{{ item.path }}">{{ item.name }}</a>
                 <ul class='dropdown'>
                   {% for child in item.children %}
                     <li>
-                      - <a href="{{site.url}}/{{item.path}}{{ child.path }}">{{ child.name }}</a>
+                      - <a href="/{{item.path}}{{ child.path }}">{{ child.name }}</a>
                     </li>
                   {% endfor %}
                 </ul>
               </li>
             {% else %}
               <li>
-                <a href="{{site.url}}/{{ item.path }}">{{ item.name }}</a>
+                <a href="/{{ item.path }}">{{ item.name }}</a>
               </li>
             {% endif %}
           {% endfor %}
