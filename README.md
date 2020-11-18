@@ -43,7 +43,7 @@ This will create a folder called `dist/` that has a production ready version of 
 
 ### Deploy
 
-push your changes to master, and AWS will automatically build and deploy the.
+push your changes to master, and AWS will automatically build and deploy the site to production.
 
 Your changes are now live. Double neato.
 
