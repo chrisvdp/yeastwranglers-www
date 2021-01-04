@@ -1,6 +1,8 @@
 # [Yeast Wranglers WWW](http://www.yeastwranglers.ca/)
 
-## install
+## Optional steps to run site locally
+
+### install
 
 * install Ruby and Node.js
 * clone this repo
@@ -8,7 +10,7 @@
 * `bundler install`
 * `npm install`
 
-## To get started
+### To get started
 
 ```sh
 $ npm start
@@ -33,7 +35,7 @@ indicates you are starting a new object.
 
 ## Usage
 
-### Build for Production
+### Optional Build for Production
 
 ```sh
 $ gulp build --prod
