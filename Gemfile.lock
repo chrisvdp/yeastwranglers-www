@@ -65,7 +65,7 @@ GEM
       sawyer (~> 0.8.0, >= 0.5.3)
     octopress (3.0.11)
       jekyll (>= 2.0)
-      mercenary (= 0.3.6)
+      mercenary (~> 0.3.2)
       octopress-deploy
       octopress-escape-code (~> 2.0)
       octopress-hooks (~> 2.0)
