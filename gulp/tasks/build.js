@@ -19,7 +19,7 @@ gulp.task('site', done => {
     shell.exec('jekyll build');
     done();
   } else if (argv.prod) {
-    shell.exec('jekyll build --config _config.yml,_config.build.yml');
+    shell.exec('bundle exec jekyll build --config _config.yml,_config.build.yml');
     done();
   }
 });
