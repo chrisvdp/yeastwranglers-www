@@ -30,14 +30,22 @@
 #     items:
 #       - text: Details
 #         link_to: '/events/Canadian-Homebrew-Day-2020.html'
-- background: assets/images/stock/hops-1405519.jpg
+# - background: assets/images/stock/hops-1405519.jpg
+#   title:
+#     main: Cowntown Yeast Wranglers 1st Annual AGM
+#     sub: November 25th at 8PM
+#   buttons:
+#     items:
+#       - text: Mark Your Calendar
+#         link_to: '/calendar/'      
+- background: assets/images/stock/bottle-caps.jpg
   title:
-    main: Cowntown Yeast Wranglers 1st Annual AGM
-    sub: November 25th at 8PM
+    main: 13th Annual CTYW Homebrew Roundup Competition!
+    sub: Register Now
   buttons:
     items:
-      - text: Mark Your Calendar
-        link_to: '/calendar/'
+      - text: Register
+        link_to: '/roundup/13th-Annual-Homebrew-Roundup-Gala.html'
 - background: assets/images/stock/refreshing-beer.jpg
   title:
     main: Renew or Join
