@@ -74,15 +74,9 @@
         icon: link
   - image: /assets/images/sponsors/1oakvine.jpg
     name: 'Oak &amp; Vine'
-    benefit: 10% discount on purchases
+    benefit: 5% discount on regular-priced beer, spirits and coolers
     socials:
       - link: http://www.oakandvine.ca/
-        icon: link
-  - image: /assets/images/sponsors/Midtown_Logo1.jpg
-    name: Midtown
-    benefit: 10% discount
-    socials:
-      - link: http://midtownkitchen.ca/
         icon: link
   - image: /assets/images/sponsors/RockyMountain.png
     name: Rocky Mountain Wine, Spirits & Beer
