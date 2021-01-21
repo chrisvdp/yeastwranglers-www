@@ -43,11 +43,10 @@
       - link: https://www.willowpark.net/
         icon: link
   - image: /assets/images/sponsors/rlm.png
-    name: Royal Liquor Merchants
+    name: |
+      Royal Liquor Merchants
+      9620 Elbow Dr SW
     benefit: 10% discount for beer purchases at Haysboro's Royal Liquor Merchants
-    socials:
-      - link: http://www.royalliquormerchants.com/
-        icon: link
   - image: /assets/images/sponsors/HopDawgs.png
     name: Hop Dawgs
     benefit: 6% off regularly priced supplies
@@ -83,6 +82,12 @@
     benefit: 10% discount
     socials:
       - link: https://rockymountainwinespiritsbeer.com/
+        icon: link
+  - image: /assets/images/sponsors/winekitz.png
+    name: Wine Kitz Calgary Varsity
+    benefit: 10% discount on all items and services, 25% discount on first visit
+    socials:
+      - link: https://www.winekitzcalgary.com/
         icon: link
 - benefitonly:
   - name: Great Canadian Beer Festival
