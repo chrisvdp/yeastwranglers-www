@@ -79,13 +79,13 @@
         icon: link
   - image: /assets/images/sponsors/RockyMountain.png
     name: Rocky Mountain Wine, Spirits & Beer
-    benefit: 10% discount
+    benefit: 10% discount on wine/spirits/beer
     socials:
       - link: https://rockymountainwinespiritsbeer.com/
         icon: link
   - image: /assets/images/sponsors/winekitz.png
     name: Wine Kitz Calgary Varsity
-    benefit: 10% discount on all items and services, 25% discount on first visit
+    benefit: 10% discount on everything, 25% discount on first visit
     socials:
       - link: https://www.winekitzcalgary.com/
         icon: link
