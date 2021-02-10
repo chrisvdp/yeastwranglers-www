@@ -9,6 +9,9 @@ excerpt: "The Cowtown Yeast Wranglers homebrew club is proud to present: The 13t
 
 Virtual Gala Tickets now <a href='http://thedandybrewingcompany.com/yeastwranglersgala2021' target='_blank'>available</a>!
 
+**Date:** Saturday, 27 February 2021<br/>
+**Time:** 6:00 PM
+
 Although Covid has changed the landscape of events, we’re still all looking forward to celebrating another amazing competition, and all the awesome homebrewers!
 
 Each ticket includes a full “Take’n’Bake” meal, as well as four cans of unique Dandy Beers to pair with the meal. 
@@ -22,7 +25,7 @@ The Menu is:
 
 Please note, the kitchen can accommodate dietary restrictions as needed, there will be a prompt when you “add to cart” to enter any restrictions you have. 
 
-Dinners will be available for pick up starting Thursday, February 25th, during Tasting Room hours. 
+Dinners will be available for pick up starting Thursday, February 25th, during Tasting Room hours.  The gala itself is on Saturday February 27th @ 6PM.
 
 Please note delivery IS NOT available for this item.
 
