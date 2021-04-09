@@ -228,7 +228,27 @@
   type: Monthly Meeting
   time: 8PM
   announcements: /monthly%20meetings/2021-April-Meeting-Announcements.html
-- month: October 30th, 2021 (tenative)
+- month: May 5th, 2021
+  topic: TBD
+  location: Google Hangouts
+  location_url: https://meet.google.com/goz-xtmc-jfs
+  type: Monthly Meeting
+  time: 8PM
+#  announcements: /monthly%20meetings/2021-May-Meeting-Announcements.html
+- month: June 2nd, 2021
+  topic: Spruce Beers with Dakota Paul and special guests
+  location: Google Hangouts
+  location_url: https://meet.google.com/nhd-rrng-dxo
+  type: Monthly Meeting
+  time: 8PM
+#  announcements: /monthly%20meetings/2021-June-Meeting-Announcements.html
+- month: June 26th, 2021
+  topic: Saison club competition drop-off deadline
+  location: The Vineyard
+  location_url: https://g.page/vineyardcalgary?share
+  type: Bottle drop-off deadline
+  icon: Beer
+- month: October 23rd, 2021
   topic: Trappist club competition drop-off deadline
   location: The Vineyard
   location_url: https://g.page/vineyardcalgary?share
