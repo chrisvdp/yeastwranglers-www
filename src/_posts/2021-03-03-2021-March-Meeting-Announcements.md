@@ -31,6 +31,7 @@ excerpt: Announcements from the March 2021 meeting
 ### Presentation (Stan Hieronymus, Dan to moderate)
 
 1. Stan to do a presentation on building a recipe (dark and about dubbel strength).  Talk about ingredients, process, etc.
+  - [Keeping it simple: Life and brewing lessons](https://www.slideshare.net/secret/dx3gNk15sydg0w)
 2. Questions from the members.
 
 ### Commerical Beer Tasting
