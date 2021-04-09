@@ -227,7 +227,7 @@
   location_url: https://meet.google.com/yoc-wnez-yqr
   type: Monthly Meeting
   time: 8PM
-#   announcements: /monthly%20meetings/2021-April-Meeting-Announcements.html
+  announcements: /monthly%20meetings/2021-April-Meeting-Announcements.html
 - month: October 30th, 2021 (tenative)
   topic: Trappist club competition drop-off deadline
   location: The Vineyard
