@@ -7,21 +7,7 @@ author: Darryl
 category: "Events"
 ---
 
-**Title**:  Canadian Homebrew Day 2021
-
-**Subtitle**: The Great Canadian Summer Stout
-
-**Date**: Saturday June 5th, 2021
-
-**Location**: Canadian Homebrewers Association Discord
-
-**Time**: 11AM
-
-**Topic**: Virtual Brew Day
-
-<hr>
-
-For the second year in a row, the Yeast Wranglers, and Malcolm MacKenzie, our Alberta Rep on the Canadian Homebrewers Association will be hosting a virtual brew day.  Details are as follows:
+For the second year in a row, the Yeast Wranglers, and Malcolm MacKenzie, our Alberta Rep on the Canadian Homebrewers Association will be hosting a *VIRTUAL BREW DAY*.
 
 ### Details
 
