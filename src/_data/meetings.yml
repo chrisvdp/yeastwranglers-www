@@ -248,13 +248,13 @@
   location_url: https://g.page/vineyardcalgary?share
   type: Bottle drop-off deadline
   icon: Beer
-- month: July 7nd, 2021
+- month: July 7th, 2021
   topic: Virtual socializing
   location: Google Hangouts
   location_url: https://meet.google.com/ujd-mdgk-xoe
   type: Monthly Meeting
   time: 8PM
-#  announcements: /monthly%20meetings/2021-June-Meeting-Announcements.html  
+  announcements: /monthly%20meetings/2021-July-Meeting-Announcements.html
 - month: October 23rd, 2021
   topic: Trappist club competition drop-off deadline
   location: The Vineyard
