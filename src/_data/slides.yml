@@ -38,14 +38,14 @@
 #     items:
 #       - text: Mark Your Calendar
 #         link_to: '/calendar/'      
-- background: assets/images/stock/bottle-caps.jpg
-  title:
-    main: 13th Annual CTYW Homebrew Roundup Competition!
-    sub: Register Now
-  buttons:
-    items:
-      - text: Register
-        link_to: '/roundup/13th-Annual-Homebrew-Roundup-Gala.html'
+#- background: assets/images/stock/bottle-caps.jpg
+#  title:
+#    main: 13th Annual CTYW Homebrew Roundup Competition!
+#    sub: Register Now
+#  buttons:
+#    items:
+#      - text: Register
+#        link_to: '/roundup/13th-Annual-Homebrew-Roundup-Gala.html'
 - background: assets/images/stock/refreshing-beer.jpg
   title:
     main: Renew or Join
