@@ -31,7 +31,7 @@ excerpt: Announcements from the November 2021 meeting
 
 Brian to do Calgary Water talk
 
-Slides for 2021 Sour Beer Blending project -- [https://www.slideshare.net/secret/oMxvftuuHoMPCC](https://www.slideshare.net/secret/oMxvftuuHoMPCC)
+Slides for Calgary Water talk -- [https://www.slideshare.net/secret/oMxvftuuHoMPCC](https://www.slideshare.net/secret/oMxvftuuHoMPCC)
 
 Direct link to Calgary Water data -- [https://data.calgary.ca/Environment/Watershed-Surface-Water-Quality-Data/y8as-bmzj](https://data.calgary.ca/Environment/Watershed-Surface-Water-Quality-Data/y8as-bmzj)
 
