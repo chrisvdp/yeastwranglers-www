@@ -30,15 +30,15 @@ excerpt: Highlights from the 2020/2021 AGM
 
 ### Programs Report
 1. Monthly Meetings
-  - All meetings moved to online since May 2020. Last year we 20-25 attendees per meeting. This year we had on average 41 attendees per meeting. Since May, we have been recording meetings (run by Adam Malejko). Most viewed meeting is Ryan’s sour beer blending talk.
+  - All meetings moved to online since May 2020. Last year we 20-25 attendees per meeting. This year we had on average 41 attendees per meeting. Since May, we have been recording meetings (run by Adam M). Most viewed meeting is Ryan’s sour beer blending talk.
   - Discord has been growing into a great active forum for homebrewing discussion.
-  - Monthly brew share (run by Neil O'Rourke) setup to fill in for the homebrew sharing aspect of club meetings. Last year we had 5-7 participants each month. This year we had on average of 8.
-  - Commercial beer tasting (run by Fallon Coburn) setup to fill in for the tasting and discussion aspect of club meetings. Takes place after the online meetings. Typically 12-15 members participate.
+  - Monthly brew share (run by Neil O) setup to fill in for the homebrew sharing aspect of club meetings. Last year we had 5-7 participants each month. This year we had on average of 8.
+  - Commercial beer tasting (run by Fallon C) setup to fill in for the tasting and discussion aspect of club meetings. Takes place after the online meetings. Typically 12-15 members participate.
 2. Special Events
-  - Canadian Homebrew Day online brew session (run by Malcolm MacKenzie). Club provided discounted grains for members to brew a Tropical Stout.
+  - Canadian Homebrew Day online brew session (run by Malcolm M). Club provided discounted grains for members to brew a Tropical Stout.
   - Summer BBQ was held with COVID precautions appropriate for conditions at that time (outdoors, ~25 people, sanitation, distancing).
-  - Free Saison yeast (run by Paul Heslop). Cabin donated a corny keg of 3rd generation Spooky Saison. 25-30 participants.
-  - Sour beer blending project (run by Ryan Preston) completed the first year blend. Participants blended the mixed fermentation sour beers brewed last year. Next year’s project is already under way.
+  - Free Saison yeast (run by Paul H). Cabin donated a corny keg of 3rd generation Spooky Saison. 25-30 participants.
+  - Sour beer blending project (run by Ryan P) completed the first year blend. Participants blended the mixed fermentation sour beers brewed last year. Next year’s project is already under way.
 3. Membership Passes
   - Digital membership passes format is still working well. They typically got sent out within 4 days of confirming payment. Total cost for September 1, 2020 to August 31, 2021 is $3.87.
 4. FY2021 Monthly Meeting Topics
@@ -63,7 +63,7 @@ excerpt: Highlights from the 2020/2021 AGM
   - **Trappist comp**: Winners will be announced at December meeting
   - Other Club activities
 		- 2020 Winter advent went well
-		- 2021 Summer advent, another success (run by Matthew Carne)
-		- 2021 Winter advent upcoming, share is this weekend (run by Matthew Carne)
+		- 2021 Summer advent, another success (run by Matthew C)
+		- 2021 Winter advent upcoming, share is this weekend (run by Matthew C)
 3. Financial Report
-  - Finance package was sent out to members in good standing prior to the AGM.
+  - Finance package was sent out to members in good standing prior to the AGM. 
