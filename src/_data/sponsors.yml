@@ -59,12 +59,12 @@
     socials:
       - link: http://www.craftbeermarket.ca/
         icon: link
-  - image: /assets/images/sponsors/5vines.png
-    name: 5 Vines
-    benefit: 10% discount for purchases
-    socials:
-      - link: http://5vines.com/
-        icon: link
+  # - image: /assets/images/sponsors/5vines.png
+    # name: 5 Vines
+    # benefit: 10% discount for purchases
+    # socials:
+      # - link: http://5vines.com/
+        # icon: link
   - image: /assets/images/sponsors/Grapes2Glass.jpg
     name: Grapes to Glass
     benefit: 10% discount for brewing supplies
