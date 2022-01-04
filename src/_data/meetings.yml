@@ -179,102 +179,102 @@
 #   location_url: https://meet.google.com/afq-kwgf-oiy
 #   type: Monthly Meeting
 #   time: 8PM
-- month: January 6th, 2021
-  topic: Food and Beer pairing with Natasha Peiskar of Establishment Brewing
-  location: Google Hangouts
-  location_url: https://meet.google.com/fya-ncfx-iny
-  type: Monthly Meeting
-  time: 8PM
-  announcements: /monthly%20meetings/2021-January-Meeting-Announcements.html
-- month: January 29th, 2021
-  topic: Porter club competition drop-off deadline
-  location: The Vineyard
-  location_url: https://g.page/vineyardcalgary?share
-  type: Bottle drop-off deadline
-  icon: Beer
-- month: February 3rd, 2021
-  topic: Yeast Starters panel discussion
-  location: Google Hangouts
-  location_url: https://meet.google.com/gsk-oiqm-cyh
-  type: Monthly Meeting
-  time: 8PM
-  announcements: /monthly%20meetings/2021-February-Meeting-Announcements.html
-- month: February 14th, 2021
-  time: 4PM
-  topic: CTYW Homebrew Roundup! competition drop-off deadline
-  location: The Vineyard
-  location_url: https://g.page/vineyardcalgary?share
-  type: Bottle drop-off deadline
-  icon: Beer
-  announcements: /roundup/13th-Annual-Homebrew-Roundup-Gala.html
-- month: March 3rd, 2021
-  topic: Belgian Beers with Stan Hieronymus
-  location: Google Hangouts
-  location_url: https://meet.google.com/tds-uhqt-tcg
-  type: Monthly Meeting
-  time: 7PM
-  announcements: /monthly%20meetings/2021-March-Meeting-Announcements.html
-- month: March 11th, 2021
-  time: 4PM
-  topic: Yeast Wranglers portion of Lord of the Wort 2 competition (New Level portion is to be dropped off at New Level brewery before the end of February)
-  location: The Vineyard
-  location_url: https://g.page/vineyardcalgary?share
-  type: Bottle drop-off deadline
-  icon: Beer
-- month: April 7th, 2021
-  topic: DIY Candi Sugar with Shaun Hill
-  location: Google Hangouts
-  location_url: https://meet.google.com/yoc-wnez-yqr
-  type: Monthly Meeting
-  time: 8PM
-  announcements: /monthly%20meetings/2021-April-Meeting-Announcements.html
-- month: May 5th, 2021
-  topic: Sour Beer and Q&A with Michael Tonsmeire
-  location: Google Hangouts
-  location_url: https://meet.google.com/goz-xtmc-jfs
-  type: Monthly Meeting
-  time: 7PM
-  announcements: /monthly%20meetings/2021-May-Meeting-Announcements.html
-- month: June 2nd, 2021
-  topic: Spruce Beers with Dakota Paul and special guests
-  location: Google Hangouts
-  location_url: https://meet.google.com/goz-xtmc-jfs
-  type: Monthly Meeting
-  time: 7PM
-  announcements: /monthly%20meetings/2021-June-Meeting-Announcements.html
-- month: June 26th, 2021
-  topic: Saison club competition drop-off deadline
-  location: The Vineyard
-  location_url: https://g.page/vineyardcalgary?share
-  type: Bottle drop-off deadline
-  icon: Beer
-- month: July 7th, 2021
-  topic: Virtual socializing
-  location: Google Hangouts
-  location_url: https://meet.google.com/ujd-mdgk-xoe
-  type: Monthly Meeting
-  time: 8PM
-  announcements: /monthly%20meetings/2021-July-Meeting-Announcements.html
-- month: September 1st, 2021
-  topic: IPA and Hop Q&A with Scott Janish
-  location: Google Hangouts
-  location_url: https://meet.google.com/gsv-srxr-mer
-  type: Monthly Meeting
-  time: 7PM
-  announcements: /monthly%20meetings/2021-September-Meeting-Announcements.html
-- month: October 6th, 2021
-  topic: 1st Annual Yeast Wranglers Sour Beer Blending with Ryan Preston
-  location: Google Hangouts
-  location_url: https://meet.google.com/xxn-fhxa-xdp
-  type: Monthly Meeting
-  time: 8PM
-  announcements: /monthly%20meetings/2021-October-Meeting-Announcements.html
-- month: October 23rd, 2021
-  topic: Trappist club competition drop-off deadline
-  location: The Vineyard
-  location_url: https://g.page/vineyardcalgary?share
-  type: Bottle drop-off deadline
-  icon: Beer
+# - month: January 6th, 2021
+  # topic: Food and Beer pairing with Natasha Peiskar of Establishment Brewing
+  # location: Google Hangouts
+  # location_url: https://meet.google.com/fya-ncfx-iny
+  # type: Monthly Meeting
+  # time: 8PM
+  # announcements: /monthly%20meetings/2021-January-Meeting-Announcements.html
+# - month: January 29th, 2021
+  # topic: Porter club competition drop-off deadline
+  # location: The Vineyard
+  # location_url: https://g.page/vineyardcalgary?share
+  # type: Bottle drop-off deadline
+  # icon: Beer
+# - month: February 3rd, 2021
+  # topic: Yeast Starters panel discussion
+  # location: Google Hangouts
+  # location_url: https://meet.google.com/gsk-oiqm-cyh
+  # type: Monthly Meeting
+  # time: 8PM
+  # announcements: /monthly%20meetings/2021-February-Meeting-Announcements.html
+# - month: February 14th, 2021
+  # time: 4PM
+  # topic: CTYW Homebrew Roundup! competition drop-off deadline
+  # location: The Vineyard
+  # location_url: https://g.page/vineyardcalgary?share
+  # type: Bottle drop-off deadline
+  # icon: Beer
+  # announcements: /roundup/13th-Annual-Homebrew-Roundup-Gala.html
+# - month: March 3rd, 2021
+  # topic: Belgian Beers with Stan Hieronymus
+  # location: Google Hangouts
+  # location_url: https://meet.google.com/tds-uhqt-tcg
+  # type: Monthly Meeting
+  # time: 7PM
+  # announcements: /monthly%20meetings/2021-March-Meeting-Announcements.html
+# - month: March 11th, 2021
+  # time: 4PM
+  # topic: Yeast Wranglers portion of Lord of the Wort 2 competition (New Level portion is to be dropped off at New Level brewery before the end of February)
+  # location: The Vineyard
+  # location_url: https://g.page/vineyardcalgary?share
+  # type: Bottle drop-off deadline
+  # icon: Beer
+# - month: April 7th, 2021
+  # topic: DIY Candi Sugar with Shaun Hill
+  # location: Google Hangouts
+  # location_url: https://meet.google.com/yoc-wnez-yqr
+  # type: Monthly Meeting
+  # time: 8PM
+  # announcements: /monthly%20meetings/2021-April-Meeting-Announcements.html
+# - month: May 5th, 2021
+  # topic: Sour Beer and Q&A with Michael Tonsmeire
+  # location: Google Hangouts
+  # location_url: https://meet.google.com/goz-xtmc-jfs
+  # type: Monthly Meeting
+  # time: 7PM
+  # announcements: /monthly%20meetings/2021-May-Meeting-Announcements.html
+# - month: June 2nd, 2021
+  # topic: Spruce Beers with Dakota Paul and special guests
+  # location: Google Hangouts
+  # location_url: https://meet.google.com/goz-xtmc-jfs
+  # type: Monthly Meeting
+  # time: 7PM
+  # announcements: /monthly%20meetings/2021-June-Meeting-Announcements.html
+# - month: June 26th, 2021
+  # topic: Saison club competition drop-off deadline
+  # location: The Vineyard
+  # location_url: https://g.page/vineyardcalgary?share
+  # type: Bottle drop-off deadline
+  # icon: Beer
+# - month: July 7th, 2021
+  # topic: Virtual socializing
+  # location: Google Hangouts
+  # location_url: https://meet.google.com/ujd-mdgk-xoe
+  # type: Monthly Meeting
+  # time: 8PM
+  # announcements: /monthly%20meetings/2021-July-Meeting-Announcements.html
+# - month: September 1st, 2021
+  # topic: IPA and Hop Q&A with Scott Janish
+  # location: Google Hangouts
+  # location_url: https://meet.google.com/gsv-srxr-mer
+  # type: Monthly Meeting
+  # time: 7PM
+  # announcements: /monthly%20meetings/2021-September-Meeting-Announcements.html
+# - month: October 6th, 2021
+  # topic: 1st Annual Yeast Wranglers Sour Beer Blending with Ryan Preston
+  # location: Google Hangouts
+  # location_url: https://meet.google.com/xxn-fhxa-xdp
+  # type: Monthly Meeting
+  # time: 8PM
+  # announcements: /monthly%20meetings/2021-October-Meeting-Announcements.html
+# - month: October 23rd, 2021
+  # topic: Trappist club competition drop-off deadline
+  # location: The Vineyard
+  # location_url: https://g.page/vineyardcalgary?share
+  # type: Bottle drop-off deadline
+  # icon: Beer
 - month: November 3rd, 2021
   topic: Brewing with Calgary Water with Brian Maude
   location: Google Hangouts
@@ -295,4 +295,10 @@
   location_url: https://www.annexales.com/
   type: Monthly Meeting
   time: 7PM
-  
+- month: January 5th, 2022
+  topic: BJCP 2021 guidelines overview & competition tips with Malcolm MacKenzie
+  location: Google Hangouts
+  location_url: https://meet.google.com/xfz-vzsa-qsc
+  type: Monthly Meeting
+  time: 8PM
+  # announcements: /agm/2021-AGM-Announcements.html  
