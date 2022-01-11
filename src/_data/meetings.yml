@@ -302,3 +302,11 @@
   type: Monthly Meeting
   time: 8PM
   # announcements: /agm/2021-AGM-Announcements.html  
+- month: February 18th, 2021
+  time: 4PM
+  topic: CTYW Homebrew Roundup! competition drop-off deadline
+  location: The Vineyard
+  location_url: https://g.page/vineyardcalgary?share
+  type: Bottle drop-off deadline
+  icon: Beer
+  announcements: /roundup/14th-Annual-Homebrew-Roundup-Gala.html
