@@ -301,7 +301,15 @@
   location_url: https://meet.google.com/xfz-vzsa-qsc
   type: Monthly Meeting
   time: 8PM
-  # announcements: /agm/2021-AGM-Announcements.html  
+  announcements: /monthly%20meetings/2022-January-Meeting-Announcements.html
+- month: February 2nd, 2021
+  time: 8PM
+  topic: Brewing Hefeweizen with Jochen Fahr of Fahr Brewing
+  location: Google Hangouts
+  location_url: https://meet.google.com/vih-dnci-nfg
+  type: Monthly Meeting
+  time: 8PM
+  # announcements: /monthly%20meetings/2022-January-Meeting-Announcements.html
 - month: February 18th, 2021
   time: 4PM
   topic: CTYW Homebrew Roundup! competition drop-off deadline
@@ -310,3 +318,11 @@
   type: Bottle drop-off deadline
   icon: Beer
   announcements: /roundup/14th-Annual-Homebrew-Roundup-Gala.html
+- month: March 9th, 2021
+  time: 8PM
+  topic: Barley and Malt with Andrew Nguyen of the Canadian Malting Barley Technical Centre
+  location: Google Hangouts
+  location_url: https://meet.google.com/igj-tgyf-gmi
+  type: Monthly Meeting
+  time: 8PM
+  # announcements: /monthly%20meetings/2022-January-Meeting-Announcements.html
