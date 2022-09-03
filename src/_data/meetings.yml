@@ -275,29 +275,29 @@
   # location_url: https://g.page/vineyardcalgary?share
   # type: Bottle drop-off deadline
   # icon: Beer
-- month: November 3rd, 2021
-  topic: Brewing with Calgary Water with Brian Maude
-  location: Google Hangouts
-  location_url: https://meet.google.com/sqt-mren-ucd
-  type: Monthly Meeting
-  time: 8PM
-  announcements: /monthly%20meetings/2021-November-Meeting-Announcements.html
-- month: November 24th, 2021
-  topic: CTYW 2021 AGM
-  location: Google Hangouts
-  location_url: https://meet.google.com/rrs-azxy-utu
-  type: AGM
-  time: 8PM
-  announcements: /agm/2021-AGM-Announcements.html
-- month: December 1st, 2021
-  topic: In-person social at Annex
-  location: Annex Ales
-  location_url: https://www.annexales.com/
-  type: Monthly Meeting
-  time: 7PM
+# - month: November 3rd, 2021
+  # topic: Brewing with Calgary Water with Brian Maude
+  # location: Google Hangouts
+  # location_url: https://meet.google.com/sqt-mren-ucd
+  # type: Monthly Meeting
+  # time: 8PM
+  # announcements: /monthly%20meetings/2021-November-Meeting-Announcements.html
+# - month: November 24th, 2021
+  # topic: CTYW 2021 AGM
+  # location: Google Hangouts
+  # location_url: https://meet.google.com/rrs-azxy-utu
+  # type: AGM
+  # time: 8PM
+  # announcements: /agm/2021-AGM-Announcements.html
+# - month: December 1st, 2021
+  # topic: In-person social at Annex
+  # location: Annex Ales
+  # location_url: https://www.annexales.com/
+  # type: Monthly Meeting
+  # time: 7PM
 - month: January 5th, 2022
   topic: BJCP 2021 guidelines overview & competition tips with Malcolm MacKenzie
-  location: Google Hangouts
+  location: Google Meet
   location_url: https://meet.google.com/xfz-vzsa-qsc
   type: Monthly Meeting
   time: 8PM
@@ -305,7 +305,7 @@
 - month: February 2nd, 2022
   time: 8PM
   topic: Brewing Hefeweizen with Jochen Fahr of Fahr Brewing
-  location: Google Hangouts
+  location: Google Meet
   location_url: https://meet.google.com/vih-dnci-nfg
   type: Monthly Meeting
   time: 8PM
@@ -321,7 +321,7 @@
 - month: March 9th, 2022
   time: 8PM
   topic: Barley and Malt with Andrew Nguyen of the Canadian Malting Barley Technical Centre
-  location: Google Hangouts
+  location: Google Meet
   location_url: https://meet.google.com/igj-tgyf-gmi
   type: Monthly Meeting
   time: 8PM
@@ -336,28 +336,61 @@
 - month: April 2nd, 2022
   time: 3PM
   topic: Raw Ales with Lars Marius Garshol
-  location: Google Hangouts
+  location: Google Meet
   location_url: https://meet.google.com/qmt-bahd-dqh
   type: Monthly Meeting
-  # announcements: /monthly%20meetings/2022-January-Meeting-Announcements.html
+  # announcements: /monthly%20meetings/2022-April-Meeting-Announcements.html
 - month: April 6th, 2022
   time: 8PM
   topic: German Wheat Beer Competition fan-favourite tasting & voting
   location: Canyon Glen or online (use link from April 2nd meeting)
   location_url: /monthly%20meetings/Getting-to-and-Parking-at-Canyon-Glen.html
   type: Monthly Meeting
-  # announcements: /monthly%20meetings/2022-January-Meeting-Announcements.html
+  # announcements: /monthly%20meetings/2022-April-Meeting-Announcements.html
 - month: May 4th, 2022
   time: 8PM
   topic: Malt sensory and a chat with Yeast Wrangler of the Year Markus Ebner
   location: Canyon Glen
   location_url: /monthly%20meetings/Getting-to-and-Parking-at-Canyon-Glen.html
   type: Monthly Meeting
-  # announcements: /monthly%20meetings/2022-January-Meeting-Announcements.html
+  # announcements: /monthly%20meetings/2022-May-Meeting-Announcements.html
 - month: June 1st, 2022
   time: 8PM
   topic: Raw Beer Competition fan-favourite tasting & voting
   location: Canyon Glen
   location_url: /monthly%20meetings/Getting-to-and-Parking-at-Canyon-Glen.html
   type: Monthly Meeting
-  # announcements: /monthly%20meetings/2022-January-Meeting-Announcements.html
+  # announcements: /monthly%20meetings/2022-June-Meeting-Announcements.html
+- month: July 16th, 2022
+  time: 12PM
+  topic: Brewery Flats Walk
+  location: Brewery Flats
+  type: Social
+  # announcements: /monthly%20meetings/2022-July-Meeting-Announcements.html
+- month: July 30th, 2022
+  time: 3PM - Late
+  topic: Summer BBQ
+  location: Details will be emailed to signed up guests
+  type: Social
+  # announcements: /monthly%20meetings/2022-July-Meeting-Announcements.html
+- month: September 7th, 2022
+  time: 8PM
+  topic: Cider talk & tour
+  location: Uncommon Cider
+  location_url: https://goo.gl/maps/9pyAvhMqjeaKqQXm7
+  type: Monthly Meeting
+  # announcements: /monthly%20meetings/2022-September-Meeting-Announcements.html
+- month: October 5th, 2022
+  time: 8PM
+  topic: TBD
+  location: TBD
+  # location_url: 
+  type: Monthly Meeting
+  # announcements: /monthly%20meetings/2022-October-Meeting-Announcements.html
+- month: October 15th, 2022
+  time: 4PM - 8PM
+  topic: AGM / Oktoberfest
+  location: Meadowlark Park Hall (623 58 Ave SW)
+  location_url: https://goo.gl/maps/89DtYkknY2Y1uvDp7
+  type: AGM
+  # announcements: /monthly%20meetings/2022-AGM-Meeting-Announcements.html
