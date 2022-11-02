@@ -394,3 +394,17 @@
   location_url: https://goo.gl/maps/89DtYkknY2Y1uvDp7
   type: AGM
   # announcements: /monthly%20meetings/2022-AGM-Meeting-Announcements.html
+- month: November 2nd, 2022
+  time: 8PM
+  topic: Rediscovering Gruit with Neil O'Rourke
+  location: The Vineyard
+  location_url: https://goo.gl/maps/gvKYTHiMpxu
+  type: Monthly Meeting
+  # announcements: /monthly%20meetings/2022-November-Meeting-Announcements.html
+- month: December 7th, 2022
+  time: 8PM
+  topic: Holiday Social
+  location: TBD
+  #location_url: https://goo.gl/maps/gvKYTHiMpxu
+  type: Monthly Meeting
+  # announcements: /monthly%20meetings/2022-November-Meeting-Announcements.html  
