@@ -53,12 +53,12 @@
     socials:
       - link: http://www.hopdawgs.ca/
         icon: link
-  - image: /assets/images/sponsors/Craft.jpg
-    name: Craft Beer Market
-    benefit: Special pub discounts for members
-    socials:
-      - link: http://www.craftbeermarket.ca/
-        icon: link
+  # - image: /assets/images/sponsors/Craft.jpg
+    # name: Craft Beer Market
+    # benefit: Special pub discounts for members
+    # socials:
+      # - link: http://www.craftbeermarket.ca/
+        # icon: link
   # - image: /assets/images/sponsors/5vines.png
     # name: 5 Vines
     # benefit: 10% discount for purchases
@@ -88,6 +88,24 @@
     benefit: 10% discount on everything, 25% discount on first visit
     socials:
       - link: https://www.winekitzcalgary.com/
+        icon: link
+  - image: /assets/images/sponsors/coopkensington.jpg
+    name: Co-op Wine Spirits Beer Kensington
+    benefit: 10% off all regular priced wine, spirits, beer
+    socials:
+      - link: https://www.coopwinespiritsbeer.com/stores/kensington/
+        icon: link
+  - image: /assets/images/sponsors/grogtag-logo.svg
+    name: Grog Tag
+    benefit: 15% off entire order
+    socials:
+      - link: https://www.grogtag.com/
+        icon: link
+  - image: /assets/images/sponsors/cankeg.jpg
+    name: Cankeg
+    benefit: 10% off sitewide
+    socials:
+      - link: https://cankeg.com/
         icon: link
 - benefitonly:
   - name: Great Canadian Beer Festival
