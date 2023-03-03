@@ -423,12 +423,14 @@
   icon: Beer
 - month: February 8th, 2023
   topic: Pink Boots Talk with Natasha Peskar
-  location: TBD
+  location: The Vineyard
+  location_url: https://g.page/vineyardcalgary?share
   type: Monthly Meeting
   time: 8PM
 - month: February 17th, 2023
-  topic: Stay Tuned!
-  location: TBD
+  topic: P49 Tap Takeover and chat with head brewer Graham With
+  location: Civic Tavern
+  location_url: https://goo.gl/maps/URqtgynjMgamHZUy9
   type: Social Event
 - month: February 18th, 2023
   topic: BJCP Tasting Exam
@@ -443,7 +445,15 @@
   icon: Beer
 - month: March 8th, 2023
   time: 8PM
-  topic: TBD
-  location: TBD
+  topic: Social event & brewery tours
+  location: Elite Brewing & Cidery
+  location_url: https://goo.gl/maps/QjLRdkRQU225cpzb9
+  type: Monthly Meeting
+  time: 8PM
+- month: April 5th, 2023
+  time: 8PM
+  topic: Pink Boots hop blend competition fan favourite voting
+  location: The Vineyard
+  location_url: https://g.page/vineyardcalgary?share
   type: Monthly Meeting
   time: 8PM
