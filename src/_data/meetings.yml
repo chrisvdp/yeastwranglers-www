@@ -450,6 +450,13 @@
   location_url: https://goo.gl/maps/QjLRdkRQU225cpzb9
   type: Monthly Meeting
   time: 8PM
+- month: March 31st, 2023
+  time: 6PM
+  topic: ALES drop-off deadline
+  location: The Vineyard
+  location_url: https://g.page/vineyardcalgary?share
+  type: Bottle drop-off deadline
+  icon: Beer
 - month: April 5th, 2023
   time: 8PM
   topic: Pink Boots hop blend competition fan favourite voting
@@ -457,3 +464,10 @@
   location_url: https://g.page/vineyardcalgary?share
   type: Monthly Meeting
   time: 8PM
+- month: May 3rd, 2023
+  time: 4PM
+  topic: Prairie Beer Awards Spruce Beer drop-off deadline
+  location: The Vineyard
+  location_url: https://g.page/vineyardcalgary?share
+  type: Bottle drop-off deadline
+  icon: Beer
