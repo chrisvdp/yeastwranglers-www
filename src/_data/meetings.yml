@@ -492,3 +492,17 @@
   location_url: https://g.page/vineyardcalgary?share
   type: Monthly Meeting
   time: 8PM  
+- month: October 4th, 2023
+  time: 8PM
+  topic: Brewery visit at Best of Kin
+  location: Best of Kin
+  location_url: https://maps.app.goo.gl/4nXPbtByerrULokt5
+  type: Monthly Meeting
+  time: 8PM
+- month: October 6th, 2023
+  time: 4PM
+  topic: GTA Brew Slam & Winnipeg Pro/Am drop-off deadline
+  location: The Vineyard
+  location_url: https://g.page/vineyardcalgary?share
+  type: Bottle drop-off deadline
+  icon: Beer
