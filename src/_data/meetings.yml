@@ -506,11 +506,17 @@
   location_url: https://g.page/vineyardcalgary?share
   type: Bottle drop-off deadline
   icon: Beer
-- month: June 7th, 2023
+- month: November 15th, 2023
   time: 8PM
   topic: AGM
   location: Village Brewing
   location_url: https://goo.gl/maps/GoXAW3TEHU6X1Mdv9
   type: AGM & Monthly Meeting
   time: 8PM
-  
+- month: December 13th, 2022
+  time: 7PM
+  topic: Holiday Social
+  location: Cabin Brewing
+  location_url: https://maps.app.goo.gl/opdMTUmu28FgsnEk7
+  type: Monthly Meeting
+  # announcements: /monthly%20meetings/2022-December-Meeting-Announcements.html  
